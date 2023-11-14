@@ -18,8 +18,10 @@ Copy the SSH key from github.com/nelja-js. Clone the SSH locally.
 Open the webpage in Google Chrome.
 
 Follow the instructions to "Open the Console".
+Screenshot 2023-11-14 221524.png
 
 Right click inspect, then left click on the "console" tab.
+
 
 ## Credits
 stackoverflow.com
