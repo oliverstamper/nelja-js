@@ -22,6 +22,7 @@ Follow the instructions to "Open the Console".
 
 
 Right click inspect, then left click on the "console" tab.
+![image](https://github.com/oliverstamper/nelja-js/assets/148012712/2444cbab-64bc-4c6f-b7bb-37aa71b1b450)
 
 
 ## Credits
